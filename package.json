@@ -1,0 +1,24 @@
+{
+  "name": "backend_1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/HuynhPhanTheTrung2003/Backend_1#readme",
+  "bugs": {
+    "url": "https://github.com/HuynhPhanTheTrung2003/Backend_1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuynhPhanTheTrung2003/Backend_1.git"
+  },
+  "license": "ISC",
+  "author": "Huynh Phan The Trung",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
